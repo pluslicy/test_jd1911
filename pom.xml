@@ -1,3 +1,5 @@
 <pom>
-
+    <plugins>
+        <plugin></plugin>
+    </plugins>
 </pom>
